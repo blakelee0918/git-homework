@@ -1,1 +1,1 @@
-# Amy 的 Git 日誌
+# Amy 的 Git 學習日誌
